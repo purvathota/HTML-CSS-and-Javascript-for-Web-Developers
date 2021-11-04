@@ -2,7 +2,9 @@
 
 This repository contains the source codes of all the module assignments that are present in the Coursera Course named HTML, CSS and Javascript for Web Developers.
 
-Coursera Module Assignments
+
+
+# Coursera Module Assignments
 
 # Module-2 Coding Assignment
 
